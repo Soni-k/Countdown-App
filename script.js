@@ -4,6 +4,7 @@ document.getElementById("end-date").innerText = endDate;
 
 const inputs = document.querySelectorAll("input")
 
+// arrow fun
 // const clock = () => {
 // }
 
