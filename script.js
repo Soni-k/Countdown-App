@@ -7,7 +7,7 @@ const inputs = document.querySelectorAll("input")
 // const clock = () => {
 // }
 
-// 1st jan 1997 to sofar(abtak)--- endDate covert millisecond(new Date)
+// 1st jan 1997 to sofar(abtak)---- endDate covert millisecond(new Date)
 function clock() {
     const end = new Date(endDate)
     const now = new Date()
